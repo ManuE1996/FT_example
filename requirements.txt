@@ -4,7 +4,7 @@ scipy==1.7.0
 matplotlib==3.4.3
 
 # Eigene Module
-git+https://gitlab.com/ManuelE1996/master_thesis/-/blob/main/Simple_ACC.git@main
+git+https://github.com/ManuE1996/FT_example.git@main
 
 # IPython
 ipython==7.28.0
