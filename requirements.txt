@@ -3,9 +3,5 @@ numpy==1.21.1
 scipy==1.7.0
 matplotlib==3.4.3
 
-# Eigene Module
-git+https://github.com/ManuE1996/FT_example/blob/main/Modul_WP.py
-git+https://github.com/ManuE1996/FT_example/blob/main/Modul_ACC.py
-
 # IPython
 ipython==7.28.0
